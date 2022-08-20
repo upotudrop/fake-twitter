@@ -1,0 +1,27 @@
+.container {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    background-color: #12adc1;
+    height: 50px;
+}
+
+.buttonContainer {
+    margin-left: 5px;
+}
+
+.buttonContainer a {
+    color: white;
+}
+
+.divContainer {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.loginContainer {
+    color: white;
+    margin-right: 10px;
+}
